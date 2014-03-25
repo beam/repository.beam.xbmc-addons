@@ -13,6 +13,7 @@
 	</extension>
 </addon>
 
+
 <addon id="service.subtitles.serialzone.cz" name="SerialZone.cz" version="0.0.1" provider-name="beam">
 	<requires>
 	    <import addon="xbmc.python" version="2.1.0"/>
