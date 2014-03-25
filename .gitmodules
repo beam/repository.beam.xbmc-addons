@@ -1,0 +1,3 @@
+[submodule "service.subtitles.serialzone.cz"]
+	path = service.subtitles.serialzone.cz
+	url = git@github.com:beam/service.subtitles.serialzone.cz.git
