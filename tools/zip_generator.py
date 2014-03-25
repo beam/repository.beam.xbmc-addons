@@ -17,24 +17,26 @@ def get_plugin_version(addon_dir):
 
 
 def create_zip_file(addon_dir):
-  version = get_plugin_version(addon_dir)
+  version = get_plugin_version("source" + os.sep + addon_dir)
   if not version:
     return
-  with ZipFile(addon_dir + os.sep + addon_dir + '-' + version + '.zip',
+  if not os.path.exists("packages" + os.sep + addon_dir):
+        os.makedirs("packages" + os.sep + addon_dir)
+  with ZipFile("packages" + os.sep + addon_dir + os.sep + addon_dir + '-' + version + '.zip',
                'w') as addonzip:
-    for root, dirs, files in os.walk(addon_dir):
+    for root, dirs, files in os.walk(os.path.join("source",addon_dir)):
       for file_path in files:
-        if file_path.endswith('.zip'):
+        if file_path.endswith('.zip') or file_path.startswith('.git'):
           continue
         print "adding %s" % os.path.join(root, file_path) 
-        addonzip.write(os.path.join(root, file_path))
+        addonzip.write(os.path.join(root, file_path),arcname=addon_dir + os.sep + file_path)
     addonzip.close()
 
 
 def main():
-  dirs = (os.listdir('.'))
+  dirs = (os.listdir('source'))
   for addon_dir in dirs:
-    if(not os.path.isdir(addon_dir)):
+    if(not os.path.isdir(os.path.join("source", addon_dir))):
       continue	  
     if(addon_dir.startswith('.')):
       # skip hidden dirs
