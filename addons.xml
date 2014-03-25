@@ -12,4 +12,15 @@
 		<platform>all</platform>
 	</extension>
 </addon>
+
+<addon id="service.subtitles.serialzone.cz" name="SerialZone.cz" version="0.0.1" provider-name="beam">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.subtitle.module" library="service.py" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">SerialZone.cz</summary>
+    <description lang="en">Search and download subtitles from serialzone.cz</description>
+  </extension>
+</addon>
 </addons>
