@@ -13,9 +13,9 @@
 	</extension>
 </addon>
 
-<addon id="service.subtitles.serialzone.cz" name="SerialZone.cz" version="1.0.0" provider-name="Beam">
+<addon id="service.subtitles.serialzone.cz" name="SerialZone.cz" version="0.0.1" provider-name="beam">
 	<requires>
-	    <import addon="xbmc.python" version="2.1.0"/>
+	    <import addon="xbmc.python" version="2.14.0"/>
 	</requires>
 	<extension point="xbmc.subtitle.module" library="service.py" />
 	<extension point="xbmc.addon.metadata">
