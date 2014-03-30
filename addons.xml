@@ -2,9 +2,9 @@
 <addons>
 <addon id="repository.beam.xbmc-addons" name="Beam XBMC Addons" version="1.0.0" provider-name="Beam">
 	<extension point="xbmc.addon.repository" name="Beam XBMC Addons Reposity">
-		<info compressed="false">https://github.com/beam/repository.beam.xbmc-addons/raw/master/addons.xml</info>
-		<checksum>https://github.com/beam/repository.beam.xbmc-addons/raw/master/addons.xml.md5</checksum>
-		<datadir zip="true">https://github.com/beam/repository.beam.xbmc-addons/raw/master/packages</datadir>
+		<info compressed="false">http://beam.github.io/repository.beam.xbmc-addons/addons.xml</info>
+		<checksum>http://beam.github.io/repository.beam.xbmc-addons/addons.xml.md5</checksum>
+		<datadir zip="true">http://beam.github.io/repository.beam.xbmc-addons/packages/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Beam XBMC Addons Repository</summary>
@@ -13,7 +13,7 @@
 	</extension>
 </addon>
 
-<addon id="service.subtitles.serialzone.cz" name="SerialZone.cz" version="0.0.1" provider-name="beam">
+<addon id="service.subtitles.serialzone.cz" name="SerialZone.cz" version="0.0.1" provider-name="Beam">
 	<requires>
 	    <import addon="xbmc.python" version="2.14.0"/>
 	</requires>
