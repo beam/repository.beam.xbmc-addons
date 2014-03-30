@@ -9,10 +9,14 @@ Instalace
 - spustte XBMC a zvolte Systém - Doplnky - Instalace z archivu ZIP
 - najdete archiv repository.beam.xbmc-addons-1.0.0.zip a zvolte instalaci
 
+Hlaseni problemu
+----------------
+Problemy muzete hlasit zde pres [issues](https://github.com/beam/repository.beam.xbmc-addons/issues) repositare, nebo issues primo u jednotlivych add-onu.
+
 Repositar obsahuje
 ------------------
 
 * Titulky (Gotham)
-  * serialzone.cz | WiP
+  * [serialzone.cz](https://github.com/beam/service.subtitles.serialzone.cz) | WiP
   * edna.cz | TODO
   * titulky.cz | TODO
