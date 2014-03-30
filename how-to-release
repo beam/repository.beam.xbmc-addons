@@ -1,6 +1,6 @@
 git checkout master
 tool/release.py
-git commit -a -m "new release in source"
+git commit -m "new release in source" addons.xml addons.xml.md5
 git checkout gh-pages
 git checkout master addons.xml addons.xml.md5
 rm -r packages
