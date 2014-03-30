@@ -20,9 +20,9 @@ def create_zip_file(addon_dir):
   version = get_plugin_version(addon_dir)
   if not version:
     return
-  if not os.path.exists(".." + os.sep + "packages" + os.sep + addon_dir):
-        os.makedirs(".." + os.sep + "packages" + os.sep + addon_dir)
-  with ZipFile(".." + os.sep + "packages" + os.sep + addon_dir + os.sep + addon_dir + '-' + version + '.zip',
+  if not os.path.exists(".." + os.sep + "packages-generated" + os.sep + addon_dir):
+        os.makedirs(".." + os.sep + "packages-generated" + os.sep + addon_dir)
+  with ZipFile(".." + os.sep + "packages-generated" + os.sep + addon_dir + os.sep + addon_dir + '-' + version + '.zip',
                'w') as addonzip:
     for root, dirs, files in os.walk(addon_dir):
       for file_path in files:

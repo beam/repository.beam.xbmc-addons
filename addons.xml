@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="repository.beam.xbmc-addons" name="Beam XBMC Addons" version="1.0.0" provider-name="Beam">
-	<extension point="xbmc.addon.repository" name="Beam XBMC Addons Reposity">
+<addon id="repository.beam.xbmc-addons" name="Beam XBMC Add-ons" version="1.0.0" provider-name="Beam">
+	<extension point="xbmc.addon.repository" name="Beam XBMC Add-ons Repository">
 		<info compressed="false">http://beam.github.io/repository.beam.xbmc-addons/addons.xml</info>
 		<checksum>http://beam.github.io/repository.beam.xbmc-addons/addons.xml.md5</checksum>
 		<datadir zip="true">http://beam.github.io/repository.beam.xbmc-addons/packages/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary>Beam XBMC Addons Repository</summary>
-		<description>Czech addons created by Andrew Beam</description>
+		<summary>Beam XBMC Add-ons Repository</summary>
+		<description>Add-ons created by Andrew Beam</description>
 		<platform>all</platform>
 	</extension>
 </addon>
