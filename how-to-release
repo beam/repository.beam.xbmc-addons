@@ -1,0 +1,8 @@
+git checkout master
+tool/release.py
+git commit -a -m "new release in source"
+git checkout gh-pages
+git checkout master addons.xml addons.xml.md5
+rm -r packages
+mv packages-generated packages
+git commit -a -m "new release for publish"
