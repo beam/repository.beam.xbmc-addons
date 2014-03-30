@@ -1,0 +1,2 @@
+v1.0.0 (30.3.2014)
+	- zrizeni repositare

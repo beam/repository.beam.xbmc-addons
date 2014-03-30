@@ -10,6 +10,8 @@
 		<summary>Beam XBMC Add-ons Repository</summary>
 		<description>Add-ons created by Andrew Beam</description>
 		<platform>all</platform>
+		<source>https://github.com/beam/repository.beam.xbmc-addons</source>
+		<email>ondra@bimovi.cz</email>
 	</extension>
 </addon>
 
