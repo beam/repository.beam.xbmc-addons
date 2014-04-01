@@ -19,4 +19,4 @@ Repositar obsahuje
 * Titulky pro XBMC 13 Gotham
   * [serialzone.cz](https://github.com/beam/service.subtitles.serialzone.cz)
   * edna.cz | TODO
-  * titulky.cz | TODO
+  * titulky.com | TODO
