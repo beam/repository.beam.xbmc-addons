@@ -17,6 +17,6 @@ Repositar obsahuje
 ------------------
 
 * Titulky (Gotham)
-  * [serialzone.cz](https://github.com/beam/service.subtitles.serialzone.cz) | WiP
+  * [serialzone.cz](https://github.com/beam/service.subtitles.serialzone.cz)
   * edna.cz | TODO
   * titulky.cz | TODO
