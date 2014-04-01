@@ -15,7 +15,19 @@
 	</extension>
 </addon>
 
-<addon id="service.subtitles.serialzone.cz" name="SerialZone.cz" version="0.0.1" provider-name="Beam">
+<addon id="service.subtitles.edna.cz" name="Edna.cz" version="0.0.1" provider-name="Beam">
+	<requires>
+		<import addon="xbmc.python" version="2.14.0"/>
+	</requires>
+	<extension point="xbmc.subtitle.module" library="service.py" />
+	<extension point="xbmc.addon.metadata">
+		<summary>Edna.cz</summary>
+		<description lang="en">Search and download subtitles from edna.cz</description>
+		<description lang="cs">Vyhledavani a stahovani titulky z edna.cz</description>
+	</extension>
+</addon>
+
+<addon id="service.subtitles.serialzone.cz" name="SerialZone.cz" version="0.0.2" provider-name="Beam">
 	<requires>
 		<import addon="xbmc.python" version="2.14.0"/>
 	</requires>
