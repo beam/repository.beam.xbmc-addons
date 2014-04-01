@@ -1,7 +1,7 @@
 # Script to generate the zip files required for <datadir zip="true"> in the
 # addon.xml of a repository
 
-import os
+import os, shutil
 import xml.etree.ElementTree
 from zipfile import ZipFile
 
@@ -20,10 +20,14 @@ def create_zip_file(addon_dir):
   version = get_plugin_version(addon_dir)
   if not version:
     return
-  if not os.path.exists(".." + os.sep + "packages-generated" + os.sep + addon_dir):
-        os.makedirs(".." + os.sep + "packages-generated" + os.sep + addon_dir)
-  with ZipFile(".." + os.sep + "packages-generated" + os.sep + addon_dir + os.sep + addon_dir + '-' + version + '.zip',
-               'w') as addonzip:
+
+  dest_addon_dir = os.path.join(".." , "packages-generated" , addon_dir)
+  if not os.path.exists(dest_addon_dir): os.makedirs(dest_addon_dir)
+
+  if os.path.isfile(os.path.join(addon_dir, "icon.png")):
+    shutil.copyfile(os.path.join(addon_dir, "icon.png"), os.path.join(dest_addon_dir, "icon.png"))
+
+  with ZipFile(os.path.join(dest_addon_dir, addon_dir + '-' + version + '.zip'), 'w') as addonzip:
     for root, dirs, files in os.walk(addon_dir):
       for file_path in files:
         if file_path.endswith('.zip') or file_path.startswith('.git') or file_path.endswith('.pyo'):
