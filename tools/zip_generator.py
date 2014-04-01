@@ -26,7 +26,7 @@ def create_zip_file(addon_dir):
                'w') as addonzip:
     for root, dirs, files in os.walk(addon_dir):
       for file_path in files:
-        if file_path.endswith('.zip') or file_path.startswith('.git'):
+        if file_path.endswith('.zip') or file_path.startswith('.git') or file_path.endswith('.pyo'):
           continue
         print "adding %s" % os.path.join(root, file_path) 
         # if dirs:
