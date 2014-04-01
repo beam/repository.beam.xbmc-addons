@@ -16,7 +16,7 @@ Problemy muzete hlasit zde pres [issues](https://github.com/beam/repository.beam
 Repositar obsahuje
 ------------------
 
-* Titulky (Gotham)
+* Titulky pro XBMC 13 Gotham
   * [serialzone.cz](https://github.com/beam/service.subtitles.serialzone.cz)
   * edna.cz | TODO
   * titulky.cz | TODO
