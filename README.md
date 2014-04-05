@@ -4,10 +4,10 @@ Beam XBMC Repository
 Instalace
 ---------
 
-- stahnete si archiv [repository.beam.xbmc-addons-1.0.0.zip](http://beam.github.io/repository.beam.xbmc-addons/packages/repository.beam.xbmc-addons/repository.beam.xbmc-addons-1.0.0.zip)
+- stahnete si archiv [repository.beam.xbmc-addons-1.0.1.zip](http://beam.github.io/repository.beam.xbmc-addons/packages/repository.beam.xbmc-addons/repository.beam.xbmc-addons-1.0.1.zip)
 - ulozte na flash disk, hard disk, nebo jine zarizeni dosazitelne v XBMC
 - spustte XBMC a zvolte System - Doplnky - Instalace z archivu ZIP
-- najdete archiv repository.beam.xbmc-addons-1.0.0.zip a zvolte instalaci
+- najdete archiv repository.beam.xbmc-addons-1.0.1.zip a zvolte instalaci
 
 Hlaseni problemu
 ----------------
