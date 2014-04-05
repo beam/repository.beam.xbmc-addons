@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="repository.beam.xbmc-addons" name="Beam XBMC Add-ons" version="1.0.0" provider-name="Beam">
+<addon id="repository.beam.xbmc-addons" name="Beam XBMC Add-ons" version="1.0.1" provider-name="Beam">
 	<extension point="xbmc.addon.repository" name="Beam XBMC Add-ons Repository">
-		<info compressed="false">http://beam.github.io/repository.beam.xbmc-addons/addons.xml</info>
-		<checksum>http://beam.github.io/repository.beam.xbmc-addons/addons.xml.md5</checksum>
-		<datadir zip="true">http://beam.github.io/repository.beam.xbmc-addons/packages/</datadir>
+		<info compressed="false">http://xbmc-repo.bimovi.cz/addons.xml</info>
+		<checksum>http://xbmc-repo.bimovi.cz/addons.xml.md5</checksum>
+		<datadir zip="true">http://xbmc-repo.bimovi.cz/packages/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Beam XBMC Add-ons Repository</summary>
@@ -15,7 +15,7 @@
 	</extension>
 </addon>
 
-<addon id="service.subtitles.edna.cz" name="Edna.cz" version="0.0.1" provider-name="Beam">
+<addon id="service.subtitles.edna.cz" name="Edna.cz" version="0.0.2" provider-name="Beam">
 	<requires>
 		<import addon="xbmc.python" version="2.14.0"/>
 	</requires>
@@ -29,7 +29,7 @@
 	</extension>
 </addon>
 
-<addon id="service.subtitles.serialzone.cz" name="SerialZone.cz" version="0.0.2" provider-name="Beam">
+<addon id="service.subtitles.serialzone.cz" name="SerialZone.cz" version="0.0.3" provider-name="Beam">
 	<requires>
 		<import addon="xbmc.python" version="2.14.0"/>
 	</requires>
@@ -39,6 +39,20 @@
 		<description lang="en">Search and download subtitles from serialzone.cz</description>
 		<description lang="cs">Vyhledavani a stahovani titulky ze serialzone.cz</description>
 		<source>https://github.com/beam/service.subtitles.serialzone.cz</source>
+		<email>ondra@bimovi.cz</email>
+	</extension>
+</addon>
+
+<addon id="service.subtitles.titulky.com" name="Titulky.com" version="0.0.1" provider-name="Beam">
+	<requires>
+		<import addon="xbmc.python" version="2.14.0"/>
+	</requires>
+	<extension point="xbmc.subtitle.module" library="service.py" />
+	<extension point="xbmc.addon.metadata">
+		<summary>Titulky.com</summary>
+		<description lang="en">Search and download subtitles from titulky.com</description>
+		<description lang="cs">Vyhledavani a stahovani titulky z titulky.com</description>
+		<source>https://github.com/beam/service.subtitles.titulky.com</source>
 		<email>ondra@bimovi.cz</email>
 	</extension>
 </addon>
