@@ -1,2 +1,5 @@
+v1.0.1 (5.4.2014)
+	- nova adresa pro stahovani aktualizaci
+
 v1.0.0 (30.3.2014)
 	- zrizeni repositare
