@@ -15,7 +15,7 @@
 	</extension>
 </addon>
 
-<addon id="service.subtitles.edna.cz" name="Edna.cz" version="0.0.3" provider-name="Beam">
+<addon id="service.subtitles.edna.cz" name="Edna.cz" version="0.0.4" provider-name="Beam">
 	<requires>
 		<import addon="xbmc.python" version="2.14.0"/>
 	</requires>
@@ -23,13 +23,13 @@
 	<extension point="xbmc.addon.metadata">
 		<summary>Edna.cz</summary>
 		<description lang="en">Search and download subtitles from edna.cz</description>
-		<description lang="cs">Vyhledavani a stahovani titulky z edna.cz</description>
+		<description lang="cs">Vyhledavani a stahovani titulku z edna.cz</description>
 		<source>https://github.com/beam/service.subtitles.edna.cz</source>
 		<email>ondra@bimovi.cz</email>
 	</extension>
 </addon>
 
-<addon id="service.subtitles.serialzone.cz" name="SerialZone.cz" version="0.0.5" provider-name="Beam">
+<addon id="service.subtitles.serialzone.cz" name="SerialZone.cz" version="0.0.6" provider-name="Beam">
 	<requires>
 		<import addon="xbmc.python" version="2.14.0"/>
 	</requires>
@@ -37,13 +37,13 @@
 	<extension point="xbmc.addon.metadata">
 		<summary>SerialZone.cz</summary>
 		<description lang="en">Search and download subtitles from serialzone.cz</description>
-		<description lang="cs">Vyhledavani a stahovani titulky ze serialzone.cz</description>
+		<description lang="cs">Vyhledavani a stahovani titulku ze serialzone.cz</description>
 		<source>https://github.com/beam/service.subtitles.serialzone.cz</source>
 		<email>ondra@bimovi.cz</email>
 	</extension>
 </addon>
 
-<addon id="service.subtitles.titulky.com" name="Titulky.com" version="0.0.5" provider-name="Beam">
+<addon id="service.subtitles.titulky.com" name="Titulky.com" version="0.0.6" provider-name="Beam">
 	<requires>
 		<import addon="xbmc.python" version="2.14.0"/>
 	</requires>
@@ -51,7 +51,7 @@
 	<extension point="xbmc.addon.metadata">
 		<summary>Titulky.com</summary>
 		<description lang="en">Search and download subtitles from titulky.com</description>
-		<description lang="cs">Vyhledavani a stahovani titulky z titulky.com</description>
+		<description lang="cs">Vyhledavani a stahovani titulku z titulky.com</description>
 		<source>https://github.com/beam/service.subtitles.titulky.com</source>
 		<email>ondra@bimovi.cz</email>
 	</extension>
