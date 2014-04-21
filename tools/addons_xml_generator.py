@@ -49,7 +49,7 @@ class Generator:
  
     def _generate_addons_file( self ):
         # addon list
-        addons = os.listdir( "source" )
+        addons = sorted(os.listdir( "source" ))
         # final addons text
         addons_xml = u("<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\"?>\n<addons>\n")
         # loop thru and add each addons addon.xml file
