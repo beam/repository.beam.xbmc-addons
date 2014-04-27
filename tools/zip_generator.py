@@ -30,7 +30,7 @@ def create_zip_file(addon_dir):
   with ZipFile(os.path.join(dest_addon_dir, addon_dir + '-' + version + '.zip'), 'w') as addonzip:
     for root, dirs, files in os.walk(addon_dir):
       for file_path in files:
-        if file_path.endswith('.zip') or file_path.startswith('.git') or file_path.endswith('.pyo') or file_path.startswith("README.md"):
+        if file_path.endswith(('.zip','.pyo','.pyc')) or file_path.startswith('.git') or file_path in ["README.md", ".DS_Store"]:
           continue
         print "adding %s" % os.path.join(root, file_path) 
         # if dirs:
