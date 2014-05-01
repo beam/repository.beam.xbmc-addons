@@ -15,7 +15,7 @@
 	</extension>
 </addon>
 
-<addon id="service.subtitles.edna.cz" name="Edna.cz" version="0.8.0" provider-name="Beam">
+<addon id="service.subtitles.edna.cz" name="Edna.cz" version="0.8.1" provider-name="Beam">
 	<requires>
 		<import addon="xbmc.python" version="2.14.0"/>
 	</requires>
