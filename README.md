@@ -13,6 +13,11 @@ Hlaseni problemu
 ----------------
 Problemy muzete hlasit zde pres [issues](https://github.com/beam/repository.beam.xbmc-addons/issues) repositare, nebo issues primo u jednotlivych add-onu.
 
+Nastaveni
+---------
+- zkontrolujte, ze mate nastavene spravne jazyky v Nastaveni -> Video -> Titulky -> Jazyky pro ktere stahnout titulky
+- pokud pouzivate CSFD Scraper, nastavte si u doplnku titulky.com aby pouzival text v zavorkach pro vyhledavani
+
 Repositar obsahuje
 ------------------
 
