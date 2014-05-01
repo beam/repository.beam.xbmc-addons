@@ -25,3 +25,8 @@ Repositar obsahuje
   * [serialzone.cz](https://github.com/beam/service.subtitles.serialzone.cz)
   * [edna.cz](https://github.com/beam/service.subtitles.edna.cz)
   * [titulky.com](https://github.com/beam/service.subtitles.titulky.com)
+
+Statistiky
+----------
+
+[!alt text](http://xbmc-repo-stats.bimovi.cz/graph_addon_usage_percent.php "Pomer vyuziti doplnku")
