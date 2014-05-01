@@ -30,3 +30,4 @@ Statistiky
 ----------
 
 [![Graf pomeru vyuziti sluzeb](http://xbmc-repo-stats.bimovi.cz/graph_service_usage_percent.php "Pomer vyuziti doplnku")](http://xbmc-repo-stats.bimovi.cz/graph_service_usage_percent.php)
+[![Graf uspesnosti vyhledavani](http://xbmc-repo-stats.bimovi.cz/graph_success_percent.php "Uspesnost vyhledavani")](http://xbmc-repo-stats.bimovi.cz/graph_success_percent.php)
