@@ -29,4 +29,4 @@ Repositar obsahuje
 Statistiky
 ----------
 
-[!alt text](http://xbmc-repo-stats.bimovi.cz/graph_addon_usage_percent.php "Pomer vyuziti doplnku")
+[![Graf pomeru vyuziti sluzeb](http://xbmc-repo-stats.bimovi.cz/graph_service_usage_percent.php "Pomer vyuziti doplnku")](http://xbmc-repo-stats.bimovi.cz/graph_service_usage_percent.php)
