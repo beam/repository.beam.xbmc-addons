@@ -27,6 +27,7 @@ Repositar obsahuje
   * [serialzone.cz](https://github.com/beam/service.subtitles.serialzone.cz)
   * [edna.cz](https://github.com/beam/service.subtitles.edna.cz)
   * [titulky.com](https://github.com/beam/service.subtitles.titulky.com)
+  * [nextweek.cz](https://github.com/beam/service.subtitles.nextweek.cz)
 
 Statistiky (poslednich 14 dni)
 ----------------------------
