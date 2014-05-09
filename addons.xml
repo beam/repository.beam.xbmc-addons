@@ -29,6 +29,20 @@
 	</extension>
 </addon>
 
+<addon id="service.subtitles.nextweek.cz" name="NextWeek.cz" version="0.0.1" provider-name="Beam">
+	<requires>
+		<import addon="xbmc.python" version="2.14.0"/>
+	</requires>
+	<extension point="xbmc.subtitle.module" library="service.py" />
+	<extension point="xbmc.addon.metadata">
+		<summary>NextWeek.cz</summary>
+		<description lang="en">Search and download subtitles from nextweek.cz</description>
+		<description lang="cs">Vyhledavani a stahovani titulku z nextweek.cz</description>
+		<source>https://github.com/beam/service.subtitles.nextweek.cz</source>
+		<email>ondra@bimovi.cz</email>
+	</extension>
+</addon>
+
 <addon id="service.subtitles.serialzone.cz" name="SerialZone.cz" version="0.9.1" provider-name="Beam">
 	<requires>
 		<import addon="xbmc.python" version="2.14.0"/>
@@ -43,7 +57,7 @@
 	</extension>
 </addon>
 
-<addon id="service.subtitles.titulky.com" name="Titulky.com" version="0.9.2" provider-name="Beam">
+<addon id="service.subtitles.titulky.com" name="Titulky.com" version="0.9.3" provider-name="Beam">
 	<requires>
 		<import addon="xbmc.python" version="2.14.0"/>
 	</requires>
