@@ -25,10 +25,10 @@ Repositar obsahuje
 ------------------
 
 * Titulky pro XBMC 13 Gotham
-  * [serialzone.cz](https://github.com/beam/service.subtitles.serialzone.cz)
-  * [edna.cz](https://github.com/beam/service.subtitles.edna.cz)
-  * [titulky.com](https://github.com/beam/service.subtitles.titulky.com)
-  * [nextweek.cz](https://github.com/beam/service.subtitles.nextweek.cz)
+  * [serialzone.cz](https://github.com/beam/service.subtitles.serialzone.cz) [ serialy a filmy ]
+  * [edna.cz](https://github.com/beam/service.subtitles.edna.cz) [ serialy ]
+  * [titulky.com](https://github.com/beam/service.subtitles.titulky.com) [ serialy]
+  * [nextweek.cz](https://github.com/beam/service.subtitles.nextweek.cz) [ serialy ]
 
 Statistiky (poslednich 14 dni)
 ----------------------------
