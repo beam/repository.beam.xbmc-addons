@@ -57,7 +57,7 @@
 	</extension>
 </addon>
 
-<addon id="service.subtitles.titulky.com" name="Titulky.com" version="0.9.3" provider-name="Beam">
+<addon id="service.subtitles.titulky.com" name="Titulky.com" version="0.9.4" provider-name="Beam">
 	<requires>
 		<import addon="xbmc.python" version="2.14.0"/>
 	</requires>
