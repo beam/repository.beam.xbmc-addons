@@ -19,6 +19,7 @@ Nastaveni
 Hlaseni problemu
 ----------------
 Problemy muzete hlasit zde pres [issues](https://github.com/beam/repository.beam.xbmc-addons/issues) repositare, nebo issues primo u jednotlivych add-onu. 
+
 Debug log muzete nahrat na http://xbmclogs.com/ .
 
 Repositar obsahuje
