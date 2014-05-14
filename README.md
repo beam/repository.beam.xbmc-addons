@@ -12,7 +12,7 @@ Instalace
 
 Nastaveni
 ---------
-- zkontrolujte, ze mate **nastavene** spravne jazyky v Nastaveni -> Video -> Titulky -> **Jazyky pro ktere stahnout titulky**
+- zkontrolujte, ze mate **nastavene** spravne jazyky v Nastaveni -> Video -> Titulky -> **Jazyky pro ktere stahnout titulky** (nastavujete jazyky ve kterych chcete titulky hledat a stahovat, takze Cesky / Slovensky staci)
 - pokud pouzivate CSFD Scraper, nastavte si u doplnku titulky.com aby pouzival text v zavorkach pro vyhledavani
 - pro vyhledavani je **nutne aby byl** film nebo serial **v knihovne**
 
