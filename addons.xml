@@ -47,6 +47,22 @@
 	</extension>
 </addon>
 
+<addon id="service.subtitles.prekladyserialu.cz" name="PrekladySerialu.cz" version="0.0.1" provider-name="Beam">
+	<requires>
+		<import addon="xbmc.python" version="2.14.0"/>
+		<import addon="script.module.simplejson" version="2.0.10" optional="true"/>
+	</requires>
+	<extension point="xbmc.subtitle.module" library="service.py" />
+	<extension point="xbmc.addon.metadata">
+		<summary>PrekladySerialu.cz</summary>
+		<description lang="en">Search and download subtitles from prekladyserialu.cz</description>
+		<description lang="cs">Vyhledavani a stahovani titulku z prekladyserialu.cz</description>
+		<description lang="sk">Vyhladavanie a stahovanie titulkov z prekladyserialu.cz</description>
+		<source>https://github.com/beam/service.subtitles.prekladyserialu.cz</source>
+		<email>ondra@bimovi.cz</email>
+	</extension>
+</addon>
+
 <addon id="service.subtitles.serialzone.cz" name="SerialZone.cz" version="1.1.0" provider-name="Beam">
 	<requires>
 		<import addon="xbmc.python" version="2.14.0"/>
