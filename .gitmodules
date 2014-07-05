@@ -10,3 +10,6 @@
 [submodule "source/service.subtitles.nextweek.cz"]
 	path = source/service.subtitles.nextweek.cz
 	url = git@github.com:beam/service.subtitles.nextweek.cz.git
+[submodule "source/service.subtitles.prekladyserialu.cz"]
+	path = source/service.subtitles.prekladyserialu.cz
+	url = git@github.com:beam/service.subtitles.prekladyserialu.cz.git
