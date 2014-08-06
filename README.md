@@ -29,7 +29,7 @@ Repositar obsahuje
   * [edna.cz](https://github.com/beam/service.subtitles.edna.cz) [ serialy ]
   * [titulky.com](https://github.com/beam/service.subtitles.titulky.com) [ serialy a filmy ]
   * [nextweek.cz](https://github.com/beam/service.subtitles.nextweek.cz) [ serialy ]
-  * [prekladyserialu.cz](https://github.com/beam/service.subtitles.prekladyserialu.cz) [ serialy ]
+  * ~~[prekladyserialu.cz](https://github.com/beam/service.subtitles.prekladyserialu.cz) [ serialy ]~~
 
 Statistiky (poslednich 14 dni)
 ----------------------------
