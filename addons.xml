@@ -15,7 +15,7 @@
 	</extension>
 </addon>
 
-<addon id="service.subtitles.edna.cz" name="Edna.cz" version="1.1.1" provider-name="Beam">
+<addon id="service.subtitles.edna.cz" name="Edna.cz" version="1.2.0" provider-name="Beam">
 	<requires>
 		<import addon="xbmc.python" version="2.14.0"/>
 		<import addon="script.module.simplejson" version="2.0.10" optional="true"/>
@@ -23,7 +23,7 @@
 	<extension point="xbmc.subtitle.module" library="service.py" />
 	<extension point="xbmc.addon.metadata">
 		<summary>Edna.cz</summary>
-		<description lang="en">Search and download subtitles from edna.cz</description>
+		<description lang="en">Search and download subtitles from edna.cz (Czech/Slovak only)</description>
 		<description lang="cs">Vyhledavani a stahovani titulku z edna.cz</description>
 		<description lang="sk">Vyhladavanie a stahovanie titulkov z edna.cz</description>
 		<source>https://github.com/beam/service.subtitles.edna.cz</source>
@@ -31,7 +31,7 @@
 	</extension>
 </addon>
 
-<addon id="service.subtitles.nextweek.cz" name="NextWeek.cz" version="1.1.1" provider-name="Beam">
+<addon id="service.subtitles.nextweek.cz" name="NextWeek.cz" version="1.2.0" provider-name="Beam">
 	<requires>
 		<import addon="xbmc.python" version="2.14.0"/>
 		<import addon="script.module.simplejson" version="2.0.10" optional="true"/>
@@ -39,7 +39,7 @@
 	<extension point="xbmc.subtitle.module" library="service.py" />
 	<extension point="xbmc.addon.metadata">
 		<summary>NextWeek.cz</summary>
-		<description lang="en">Search and download subtitles from nextweek.cz</description>
+		<description lang="en">Search and download subtitles from nextweek.cz (Czech only)</description>
 		<description lang="cs">Vyhledavani a stahovani titulku z nextweek.cz</description>
 		<description lang="sk">Vyhladavanie a stahovanie titulkov z nextweek.cz</description>
 		<source>https://github.com/beam/service.subtitles.nextweek.cz</source>
@@ -64,7 +64,7 @@
 	</extension>
 </addon>
 
-<addon id="service.subtitles.serialzone.cz" name="SerialZone.cz" version="1.1.1" provider-name="Beam">
+<addon id="service.subtitles.serialzone.cz" name="SerialZone.cz" version="1.2.0" provider-name="Beam">
 	<requires>
 		<import addon="xbmc.python" version="2.14.0"/>
 		<import addon="script.module.simplejson" version="2.0.10" optional="true"/>
@@ -72,7 +72,7 @@
 	<extension point="xbmc.subtitle.module" library="service.py" />
 	<extension point="xbmc.addon.metadata">
 		<summary>SerialZone.cz</summary>
-		<description lang="en">Search and download subtitles from serialzone.cz</description>
+		<description lang="en">Search and download subtitles from serialzone.cz (Czech/Slovak only)</description>
 		<description lang="cs">Vyhledavani a stahovani titulku ze serialzone.cz</description>
 		<description lang="sk">Vyhladavanie a stahovanie titulkov zo serialzone.cz</description>
 		<source>https://github.com/beam/service.subtitles.serialzone.cz</source>
@@ -80,7 +80,7 @@
 	</extension>
 </addon>
 
-<addon id="service.subtitles.titulky.com" name="Titulky.com" version="1.1.0" provider-name="Beam">
+<addon id="service.subtitles.titulky.com" name="Titulky.com" version="1.2.0" provider-name="Beam">
 	<requires>
 		<import addon="xbmc.python" version="2.14.0"/>
 		<import addon="script.module.simplejson" version="2.0.10" optional="true"/>
@@ -88,7 +88,7 @@
 	<extension point="xbmc.subtitle.module" library="service.py" />
 	<extension point="xbmc.addon.metadata">
 		<summary>Titulky.com</summary>
-		<description lang="en">Search and download subtitles from titulky.com</description>
+		<description lang="en">Search and download subtitles from titulky.com (Czech/Slovak only)</description>
 		<description lang="cs">Vyhledavani a stahovani titulku z titulky.com</description>
 		<description lang="sk">Vyhladavanie a stahovanie titulkov z titulky.com</description>
 		<source>https://github.com/beam/service.subtitles.titulky.com</source>
