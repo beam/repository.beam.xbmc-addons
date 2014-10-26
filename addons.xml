@@ -15,7 +15,7 @@
 	</extension>
 </addon>
 
-<addon id="service.subtitles.edna.cz" name="Edna.cz" version="1.2.0" provider-name="Beam">
+<addon id="service.subtitles.edna.cz" name="Edna.cz" version="1.2.1" provider-name="Beam">
 	<requires>
 		<import addon="xbmc.python" version="2.14.0"/>
 		<import addon="script.module.simplejson" version="2.0.10" optional="true"/>
@@ -31,7 +31,7 @@
 	</extension>
 </addon>
 
-<addon id="service.subtitles.nextweek.cz" name="NextWeek.cz" version="1.2.0" provider-name="Beam">
+<addon id="service.subtitles.nextweek.cz" name="NextWeek.cz" version="1.2.1" provider-name="Beam">
 	<requires>
 		<import addon="xbmc.python" version="2.14.0"/>
 		<import addon="script.module.simplejson" version="2.0.10" optional="true"/>
@@ -64,7 +64,7 @@
 	</extension>
 </addon>
 
-<addon id="service.subtitles.serialzone.cz" name="SerialZone.cz" version="1.2.0" provider-name="Beam">
+<addon id="service.subtitles.serialzone.cz" name="SerialZone.cz" version="1.2.1" provider-name="Beam">
 	<requires>
 		<import addon="xbmc.python" version="2.14.0"/>
 		<import addon="script.module.simplejson" version="2.0.10" optional="true"/>
@@ -80,7 +80,7 @@
 	</extension>
 </addon>
 
-<addon id="service.subtitles.titulky.com" name="Titulky.com" version="1.2.0" provider-name="Beam">
+<addon id="service.subtitles.titulky.com" name="Titulky.com" version="1.2.1" provider-name="Beam">
 	<requires>
 		<import addon="xbmc.python" version="2.14.0"/>
 		<import addon="script.module.simplejson" version="2.0.10" optional="true"/>
