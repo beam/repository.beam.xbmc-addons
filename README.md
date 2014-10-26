@@ -1,4 +1,4 @@
-Beam XBMC Repository
+Beam Kodi/XBMC Repository
 ===========================
 
 Instalace
@@ -24,7 +24,7 @@ Debug log muzete nahrat na http://xbmclogs.com/ nebo postupujte dle navodu na [W
 Repositar obsahuje
 ------------------
 
-* Titulky pro XBMC 13 Gotham
+* Titulky pro Kodi Helix a XBMC Gotham
   * [serialzone.cz](https://github.com/beam/service.subtitles.serialzone.cz) [ serialy ]
   * [edna.cz](https://github.com/beam/service.subtitles.edna.cz) [ serialy ]
   * [titulky.com](https://github.com/beam/service.subtitles.titulky.com) [ serialy a filmy ]
