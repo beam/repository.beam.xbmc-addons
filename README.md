@@ -38,3 +38,5 @@ Statistiky (poslednich 14 dni)
 ![Graf vyhledani a uzivatelu](http://xbmc-repo-stats.bimovi.cz/graph/search_and_user_count.png "Pocet uzivatelu a hledani denne")&nbsp;
 ![Graf verze XBMC](http://xbmc-repo-stats.bimovi.cz/graph/xbmc_version.png "Verze XBMC")&nbsp;![Graf rozliseni XBMC](http://xbmc-repo-stats.bimovi.cz/graph/xbmc_resolution.png "Rozliseni XBMC")&nbsp;![Graf operacni system XBMC](http://xbmc-repo-stats.bimovi.cz/graph/system_platform.png "Operacni system")&nbsp;![Graf typ obsahu XBMC](http://xbmc-repo-stats.bimovi.cz/graph/content_type.png "Typ vyhledavaneho obsahu")&nbsp;
 ![Graf hodinoveho rozlozeni](http://xbmc-repo-stats.bimovi.cz/graph/hours_scatter.png "Hodinove rozlozeni vyhledavani")&nbsp;
+
+![Graf nejhledanejsich serialu](http://xbmc-repo-stats.bimovi.cz/graph_top_tvshows.php "Nejhledanejsi serilay")&nbsp;![Graf nejhledanejsich filmu](http://xbmc-repo-stats.bimovi.cz/graph_top_movies.php "Nejhledanejsi filmy")&nbsp;
