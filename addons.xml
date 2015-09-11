@@ -15,20 +15,20 @@
 	</extension>
 </addon>
 
-<addon id="script.tvshowtime.rework" name="TVShowTime.com" version="0.0.1" provider-name="Beam">
-  <requires>
-    <import addon="xbmc.python" version="2.19.0"/>
-  </requires>
-  <extension point="xbmc.python.script" library="program.py">
-    <provides>executable</provides>
-  </extension>
-  <extension point="xbmc.service" library="service.py" start="login"/>
-  <extension point="xbmc.addon.metadata">
-    <summary lang="en">TVShowTime.com</summary>
-    <description lang="en">Automatically set episodes as watched on tvshowtime.com</description>
-    <source>https://github.com/beam/script.tvshowtime.rework</source>
-    <email>ondra@bimovi.cz</email>
-  </extension>
+<addon id="script.tvshowtime.rework" name="TVShowTime.com" version="0.0.2" provider-name="Beam">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0"/>
+	</requires>
+	<extension point="xbmc.python.script" library="program.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.service" library="service.py" start="login"/>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">TVShowTime.com</summary>
+		<description lang="en">Automatically set episodes as watched on tvshowtime.com</description>
+		<source>https://github.com/beam/script.tvshowtime.rework</source>
+		<email>ondra@bimovi.cz</email>
+	</extension>
 </addon>
 
 <addon id="service.subtitles.edna.cz" name="Edna.cz" version="1.2.1" provider-name="Beam">
