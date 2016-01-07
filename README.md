@@ -38,7 +38,8 @@ Statistiky (poslednich 14 dni)
 ----------------------------
 
 ![Graf uspesnosti vyhledavani](http://xbmc-repo-stats.bimovi.cz/graph/success_percent.png "Uspesnost vyhledavani")&nbsp;![Graf pomeru vyuziti sluzeb](http://xbmc-repo-stats.bimovi.cz/graph/service_usage_percent.png "Pomer vyuziti doplnku")&nbsp;![Graf jazyku titulku](http://xbmc-repo-stats.bimovi.cz/graph/lang_search.png "Nastavene jazyky pro vyhledavani")&nbsp;![Graf jazyku systemu](http://xbmc-repo-stats.bimovi.cz/graph/lang_system.png "Jazyky prostredi XBMC")&nbsp;
-![Graf vyhledani a uzivatelu](http://xbmc-repo-stats.bimovi.cz/graph/search_and_user_count.png "Pocet uzivatelu a hledani denne")&nbsp;
+![Graf vyhledani a uzivatelu](http://xbmc-repo-stats.bimovi.cz/graph/search_and_user_count.png "Pocet uzivatelu a hledani denne")
+
 ![Graf verze XBMC](http://xbmc-repo-stats.bimovi.cz/graph/xbmc_version.png "Verze XBMC")&nbsp;![Graf rozliseni XBMC](http://xbmc-repo-stats.bimovi.cz/graph/xbmc_resolution.png "Rozliseni XBMC")&nbsp;![Graf operacni system XBMC](http://xbmc-repo-stats.bimovi.cz/graph/system_platform.png "Operacni system")&nbsp;![Graf typ obsahu XBMC](http://xbmc-repo-stats.bimovi.cz/graph/content_type.png "Typ vyhledavaneho obsahu")&nbsp;
 ![Graf hodinoveho rozlozeni](http://xbmc-repo-stats.bimovi.cz/graph/hours_scatter.png "Hodinove rozlozeni vyhledavani")&nbsp;
 
