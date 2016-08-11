@@ -46,6 +46,9 @@ def main():
   os.chdir('source')
   dirs = (os.listdir('.'))
   for addon_dir in dirs:
+    if(os.path.exists(os.path.join(addon_dir, ".skip"))):
+      print "skipping %s" % addon_dir
+      continue
     if(not os.path.isdir(addon_dir)):
       continue	  
     if(addon_dir.startswith('.')):

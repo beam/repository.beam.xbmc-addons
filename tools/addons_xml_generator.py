@@ -55,6 +55,8 @@ class Generator:
         # loop thru and add each addons addon.xml file
         for addon in addons:
             try:
+                # skip .skip
+                if (os.path.exists(os.path.join("source", addon, ".skip"))): continue
                 # skip any file or .svn folder or .git folder
                 if ( not os.path.isdir(os.path.join( "source", addon )) or addon == ".svn" or addon == ".git" ): continue
                 # create path
@@ -76,7 +78,7 @@ class Generator:
                 addons_xml += addon_xml.rstrip() + "\n\n"
             except Exception as e:
                 # missing or poorly formatted addon.xml
-                print("Excluding %s for %s" % ( _path, e ))
+                print("Excluding %s for %s" % ( addon, e ))
         # clean and add closing tag
         addons_xml = addons_xml.strip() + u("\n</addons>\n")
         # save file
