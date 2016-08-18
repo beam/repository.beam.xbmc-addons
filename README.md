@@ -5,10 +5,10 @@ Instalace
 ---------
 
 - stahnete si archiv [repository.beam.xbmc-addons-1.0.1.zip](http://xbmc-repo.bimovi.cz/packages/repository.beam.xbmc-addons/repository.beam.xbmc-addons-1.0.1.zip)
-- ulozte na flash disk, hard disk, nebo jine zarizeni dosazitelne v XBMC
-- spustte XBMC a zvolte Nastaveni -> Doplnky -> Instalace z archivu ZIP
+- ulozte na flash disk, hard disk, nebo jine zarizeni dosazitelne v Kodi
+- spustte Kodi a zvolte Nastaveni -> Doplnky -> Instalace z archivu ZIP
 - najdete archiv repository.beam.xbmc-addons-1.0.1.zip a zvolte instalaci
-- jednotlive doplnky je potom mozne instalovat pres Nastaveni -> Doplnky -> Ziskat Doplnky -> Beam XBMC Add-ons
+- jednotlive doplnky je potom mozne instalovat pres Nastaveni -> Doplnky -> Ziskat Doplnky -> Beam Kodi Add-ons
 
 Nastaveni
 ---------
