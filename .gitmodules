@@ -16,3 +16,6 @@
 [submodule "source/script.tvshowtime.rework"]
 	path = source/script.tvshowtime.rework
 	url = git@github.com:beam/script.tvshowtime.rework.git
+[submodule "source/script.tvpower.screensaver.control"]
+	path = source/script.tvpower.screensaver.control
+	url = git@github.com:beam/script.tvpower.screensaver.control.git
