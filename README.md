@@ -34,6 +34,9 @@ Repositar obsahuje
 * Programy
   * [tvshowtime.com](https://github.com/beam/script.tvshowtime.rework) [ serialy ]
 
+* Sluzby
+  * [turn off/on TV](https://github.com/beam/script.tvpower.screensaver.control) [ zapne a vypne TV pres CEC ]
+
 Statistiky (poslednich 14 dni)
 ----------------------------
 
