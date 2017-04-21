@@ -12,8 +12,8 @@ Instalace
 
 Podpora
 ---------
-BTC: 1K5CvLfvGFysEN6A9bhSYZMb1Xdh3fZ9tF
-XMR: 4LE8568g1r17o212AusHstDzjnsc6tmWHHUinQ8ZWE7SERFgMRcPZVSAyo43exun9XLcEeiwyQAp4K8KmiWubtV3dKeQzyNwkYcBwU4P5t
+- BTC: 1K5CvLfvGFysEN6A9bhSYZMb1Xdh3fZ9tF
+- XMR: 4LE8568g1r17o212AusHstDzjnsc6tmWHHUinQ8ZWE7SERFgMRcPZVSAyo43exun9XLcEeiwyQAp4K8KmiWubtV3dKeQzyNwkYcBwU4P5t
 
 Nastaveni
 ---------
