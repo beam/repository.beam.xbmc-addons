@@ -19,3 +19,6 @@
 [submodule "source/script.tvpower.screensaver.control"]
 	path = source/script.tvpower.screensaver.control
 	url = git@github.com:beam/script.tvpower.screensaver.control.git
+[submodule "source/script.bluetooth.toggler"]
+	path = source/script.bluetooth.toggler
+	url = git@github.com:beam/script.bluetooth.toggler.git
