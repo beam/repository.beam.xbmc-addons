@@ -8,7 +8,7 @@ Instalace
 - ulozte na flash disk, hard disk, nebo jine zarizeni dosazitelne v Kodi
 - spustte Kodi a zvolte Nastaveni -> Doplnky -> Instalace z archivu ZIP
 - najdete archiv repository.beam.xbmc-addons-1.0.2.zip a zvolte instalaci
-- jednotlive doplnky je potom mozne instalovat pres Nastaveni -> Doplnky -> Ziskat Doplnky -> Beam Kodi Add-ons
+- jednotlive doplnky je potom mozne instalovat pres Nastaveni -> Doplnky -> Instalovat z repozitare -> Beam Kodi Add-ons
 
 Podpora
 ---------
@@ -17,7 +17,7 @@ Podpora
 
 Nastaveni
 ---------
-- zkontrolujte, ze mate **nastavene** spravne jazyky v Nastaveni -> Video -> Titulky -> **Jazyky pro ktere stahnout titulky** (nastavujete jazyky ve kterych chcete titulky hledat a stahovat, takze Cesky / Slovensky staci)
+- zkontrolujte, ze mate **nastavene** spravne jazyky v Nastaveni -> Nastaveni prehravace -> Jazyk -> **Jazyky, pro ktere stahnout titulky** (nastavujete jazyky ve kterych chcete titulky hledat a stahovat, takze Cesky / Slovensky staci)
 - pokud pouzivate CSFD Scraper, nastavte si u doplnku titulky.com aby pouzival text v zavorkach pro vyhledavani
 - pro vyhledavani je **nutne aby byl** film nebo serial **v knihovne**
 
