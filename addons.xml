@@ -15,11 +15,12 @@
 	</extension>
 </addon>
 
-<addon id="script.tvpower.screensaver.control" name="TV power controller" version="0.8.1" provider-name="Beam">
+<addon id="script.tvpower.screensaver.control" name="TV power controller" version="1.0.0" provider-name="Beam">
 	<requires>
 		<import addon="xbmc.python" version="2.19.0"/>
 		<import addon="script.module.simplejson" version="2.0.10" />
 	</requires>
+	<extension point="xbmc.python.script" library="program.py" />
 	<extension point="xbmc.service" library="service.py" start="login"/>
 	<extension point="xbmc.addon.metadata">
 		<summary lang="en">Turn off/on TV with screensaver</summary>
