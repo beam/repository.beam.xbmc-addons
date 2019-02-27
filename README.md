@@ -41,6 +41,12 @@ Repositar obsahuje
 
 * Sluzby
   * [turn off/on TV](https://github.com/beam/script.tvpower.screensaver.control) [ zapne a vypne TV pres CEC ]
+  
+* Ostatni
+  * [script.module.cherrypy](https://github.com/kodi-community-addons/script.module.cherrypy)
+  * [script.module.metadatautils](https://github.com/kodi-community-addons/script.module.metadatautils)
+  * [script.skin.helper.service](https://github.com/kodi-community-addons/script.skin.helper.service)
+  * [script.skin.helper.widgets](https://github.com/kodi-community-addons/script.skin.helper.widgets)
 
 Statistiky (poslednich 14 dni)
 ----------------------------
