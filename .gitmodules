@@ -22,3 +22,15 @@
 [submodule "source/script.bluetooth.toggler"]
 	path = source/script.bluetooth.toggler
 	url = git@github.com:beam/script.bluetooth.toggler.git
+[submodule "source/script.module.cherrypy"]
+	path = source/script.module.cherrypy
+	url = https://github.com/kodi-community-addons/script.module.cherrypy.git
+[submodule "source/script.module.metadatautils"]
+	path = source/script.module.metadatautils
+	url = https://github.com/kodi-community-addons/script.module.metadatautils.git
+[submodule "source/script.skin.helper.service"]
+	path = source/script.skin.helper.service
+	url = https://github.com/kodi-community-addons/script.skin.helper.service.git
+[submodule "source/script.skin.helper.widgets"]
+	path = source/script.skin.helper.widgets
+	url = https://github.com/kodi-community-addons/script.skin.helper.widgets.git
