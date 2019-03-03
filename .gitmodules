@@ -34,3 +34,6 @@
 [submodule "source/script.skin.helper.widgets"]
 	path = source/script.skin.helper.widgets
 	url = https://github.com/kodi-community-addons/script.skin.helper.widgets.git
+[submodule "source/script.module.simplecache"]
+	path = source/script.module.simplecache
+	url = https://github.com/kodi-community-addons/script.module.simplecache

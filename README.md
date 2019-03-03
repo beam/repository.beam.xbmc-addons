@@ -47,6 +47,7 @@ Repositar obsahuje
   * [script.module.metadatautils](https://github.com/kodi-community-addons/script.module.metadatautils)
   * [script.skin.helper.service](https://github.com/kodi-community-addons/script.skin.helper.service)
   * [script.skin.helper.widgets](https://github.com/kodi-community-addons/script.skin.helper.widgets)
+  * [script.module.simplecache](https://github.com/kodi-community-addons/script.module.simplecache)
 
 Statistiky (poslednich 14 dni)
 ----------------------------
